@@ -1,0 +1,14 @@
+com\mycompany\nominalibre\SalarioInvalidoException.class
+com\mycompany\nominalibre\PorHoras.class
+com\mycompany\nominalibre\Pago.class
+com\mycompany\nominalibre\EmpleadoDePlanta.class
+com\mycompany\nominalibre\ObservadorPago.class
+com\mycompany\nominalibre\AlertaObserver.class
+com\mycompany\nominalibre\ContabilidadObserver.class
+com\mycompany\nominalibre\NewJFrame.class
+com\mycompany\nominalibre\Contratista.class
+com\mycompany\nominalibre\LiquidadorNomina.class
+com\mycompany\nominalibre\Trabajador.class
+com\mycompany\nominalibre\Bonificable.class
+com\mycompany\nominalibre\DocumentoInvalidoException.class
+com\mycompany\nominalibre\HorasInvalidasException.class

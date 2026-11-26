@@ -4,6 +4,11 @@
     <groupId>com.mycompany</groupId>
     <artifactId>NominaLibre</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependency>
+    <groupId>com.mysql</groupId>
+    <artifactId>mysql-connector-j</artifactId>
+    <version>9.5.0</version>
+    </dependency>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
