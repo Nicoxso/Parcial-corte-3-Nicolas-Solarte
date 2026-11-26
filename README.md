@@ -1,0 +1,1 @@
+# Parcial-corte-3-Nicolas-Solarte
